@@ -5,6 +5,16 @@
     <link>https://pzxy.github.io/tags/</link>
     <description>Recent content in Tags on 萍踪侠影的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://pzxy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate><atom:link href="https://pzxy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>golang</title>
+      <link>https://pzxy.github.io/tags/golang/</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>https://pzxy.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
